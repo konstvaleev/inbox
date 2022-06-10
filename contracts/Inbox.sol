@@ -12,5 +12,3 @@ contract Inbox {
     }
 
 }
-
-
